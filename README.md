@@ -1,17 +1,17 @@
-### Junho, Won --@Software Developer
-👋 Hi! Welcome to my Github place. I am Software Developer at Timegate in South Korea. My main areas of interest are software Development and data analytics in general.
+### Junho, Won -- @Software Developer
+👋  Hi! Welcome to my Github place. I am Software Developer at Timegate in South Korea. My main areas of interest are software Development and data analytics in general.
 
-### 🔭 Languages
+### 🔭  Languages
 - Java (Intermediate)
 - Database (Intermediate)
 - Python (beginner)
 
-### 🌱 I’m currently learning
+### 🌱  I’m currently learning
 - Spring
 - oracle database
 - Javascript(Ext JS)
 
-### 📫 How to reach me
+### 📫  How to reach me
 - email : wnsgh1993@gmail.com
 - facebook : https://www.facebook.com/SD.JunhoWon/
 
