@@ -15,7 +15,9 @@
 - email : wnsgh1993@gmail.com
 - facebook : https://www.facebook.com/SD.JunhoWon/
 
-
+### 💬 Available languages 
+- Korea (Native)
+- English (Fluent)
 
 
 <!--
