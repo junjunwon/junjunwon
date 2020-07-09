@@ -16,7 +16,7 @@
 - facebook : https://www.facebook.com/SD.JunhoWon/
 
 ### 💬 Available languages 
-- Korea (Native)
+- Korean (Native)
 - English (Fluent)
 
 
