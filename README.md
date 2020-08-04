@@ -3,14 +3,14 @@
 My main areas of interest are software Development and data analytics in general.
 
 ### 🔭   Languages
-- Java (Intermediate)
-- Database (Intermediate)
+- Java (beginner)
+- Database (beginner)
 - Python (beginner)
 
 ### 🌱   I’m currently learning
-- Spring
+- Spring (MVC, hibernate)
 - oracle database
-- Javascript(Ext JS)
+- Javascript
 
 ### 📫   How to reach me
 - email : wnsgh1993@gmail.com
