@@ -1,17 +1,18 @@
 ### Junho, Won
-👋   Hi! Welcome to my Github place. I am Software Developer at Timegate in South Korea. 
-My main areas of interest are software Development and data analytics in general.
+👋   Hi! Welcome to my Github place. I am Software Developer in South Korea. 
+
 
 ### 🔭   Languages
-- Java (beginner)
-- Database (beginner)
+- vue.js (beginner)
+- SpringBoot (pre-intermediate)
+- Database (pre-intermediate)
 - Python (beginner)
 
-### 🌱   I’m currently learning
-- Spring (MVC, hibernate)
+<!-- ### 🌱   I’m currently learning
+- Vue.js
 - oracle database
 - Javascript
-
+ -->
 ### 📫   How to reach me
 - email : wnsgh1993@gmail.com
 - blog : https://junjunrecord.tistory.com/
