@@ -14,7 +14,7 @@ My main areas of interest are software Development and data analytics in general
 
 ### 📫   How to reach me
 - email : wnsgh1993@gmail.com
-- facebook : https://www.facebook.com/SD.JunhoWon/
+- blog : https://junjunrecord.tistory.com/
 
 ### 💬  Available languages 
 - Korean (Native)
