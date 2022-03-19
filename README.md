@@ -3,15 +3,16 @@
 
 
 ### 🔭   Languages
-- vue.js (beginner)
+- vue.js (pre-intermediate)
 - SpringBoot (pre-intermediate)
 - Database (pre-intermediate)
-- Python (beginner)
 
 <!-- ### 🌱   I’m currently learning
 - Vue.js
 - oracle database
 - Javascript
+- spring boot
+- 
  -->
 ### 📫   How to reach me
 - email : wnsgh1993@gmail.com
