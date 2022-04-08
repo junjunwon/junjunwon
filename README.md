@@ -1,11 +1,13 @@
 ### Junho, Won
-👋   Hi! Welcome to my Github place. I am Software Developer in South Korea. 
+👋   Hi! Welcome to my Github place. I am a Software Developer in South Korea. 
 
 
 ### 🔭   Languages
-- vue.js (pre-intermediate)
-- SpringBoot (pre-intermediate)
-- Database (pre-intermediate)
+- vue.js
+- javascript
+- SpringBoot
+- Database
+- git
 
 <!-- ### 🌱   I’m currently learning
 - Vue.js
