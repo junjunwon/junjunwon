@@ -4,7 +4,7 @@
 
 ### 🔭   Languages
 - vue.js
-- javascript
+- javascript(ES6)
 - SpringBoot
 - Database
 - git
