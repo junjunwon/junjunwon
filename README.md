@@ -1,5 +1,5 @@
 ### Junho, Won
-👋   Hi! Welcome to my Github place. I am a Software Developer in South Korea. 
+👋   Hi! Welcome to my Github place. I am a Software Developer who is currently seeking a job in US.
 
 
 ### 🔭   Languages
