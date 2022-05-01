@@ -17,6 +17,7 @@
 - 
  -->
 ### 📫   How to reach me
+- LinkedIn : https://www.linkedin.com/in/junho-won-10b75117a/
 - email : wnsgh1993@gmail.com
 - blog : https://junjunrecord.tistory.com/
 
