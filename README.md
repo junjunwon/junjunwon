@@ -2,20 +2,23 @@
 👋   Hi! Welcome to my Github place. I am a Software Developer who is currently seeking a job in US.
 
 
-### 🔭   Languages
+### 🔭   SKILL && TECK STACK
+#### FRONT-END
 - vue.js
 - javascript(ES6)
+##### Current interest 
+- React.js
+- Typescript
+#### BACK-END
+- Java
 - SpringBoot
-- Database
-- git
+#### DATABASE
+- MSSQL / POSTGRESQL
+#### VERSION CONTROL
+- GIT (Gitlab)
+- SVN 
 
-<!-- ### 🌱   I’m currently learning
-- Vue.js
-- oracle database
-- Javascript
-- spring boot
-- 
- -->
+
 ### 📫   How to reach me
 - LinkedIn : https://www.linkedin.com/in/junho-won-10b75117a/
 - email : wnsgh1993@gmail.com
