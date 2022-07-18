@@ -8,7 +8,7 @@
 - javascript(ES6)
 ##### Current interest 
 - React.js
-- Typescript
+- Typescript (will do soon)
 #### BACK-END
 - Java
 - SpringBoot
