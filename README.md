@@ -3,13 +3,14 @@
 
 
 ### 🔭   SKILL && TECK STACK
-#### FRONT-END
-- vue.js
-- javascript(ES6)
-##### Current interest 
+
+#### Current interest 
 - Springboot : AOP / QuesyDSL / Security
 - React.js
 - Typescript (will do soon)
+#### FRONT-END
+- vue.js
+- javascript(ES6)
 #### BACK-END
 - Java
 - SpringBoot
