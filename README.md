@@ -6,24 +6,24 @@
 
 #### Current interest 
 - Springboot : AOP / QuesyDSL / Security
-- React.js
 - Typescript (will do soon)
 #### FRONT-END
-- vue.js
+- Vue.js
 - javascript(ES6)
 #### BACK-END
-- Java
-- SpringBoot
+- Java (JDK +1.8)
+- SpringBoot 
 #### DATABASE
 - MSSQL / POSTGRESQL
 #### VERSION CONTROL
-- GIT (Gitlab)
-- SVN 
+- GIT (Gitlab) / SVN
+#### WORK MANAGEMENT
+- Confluence / JIRA /WBS
 
 
 ### 📫   How to reach me
 - LinkedIn : https://www.linkedin.com/in/junho-won-10b75117a/
-- email : wnsgh1993@gmail.com
+- email : [wnsgh1993@gmail.com](mailto:wnsgh1993@gmail.com)
 - blog : https://junjunrecord.tistory.com/
 
 ### 💬  Available languages 
