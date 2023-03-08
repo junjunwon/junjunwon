@@ -14,11 +14,12 @@
 - Java (JDK +1.8)
 - SpringBoot 
 #### DATABASE
-- MSSQL / POSTGRESQL
+- POSTGRESQL / MSSQL
 #### VERSION CONTROL
-- GIT (Gitlab) / SVN
+- GIT : Bitbucket (Current) / Gitlab
+- SVN
 #### WORK MANAGEMENT
-- Confluence / JIRA /WBS
+- Confluence / JIRA / WBS
 
 
 ### 📫   How to reach me
