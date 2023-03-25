@@ -5,8 +5,7 @@
 ### 🔭   SKILL && TECK STACK
 
 #### Current interest 
-- Springboot : AOP / QuesyDSL / Security
-- Typescript (will do soon)
+- Springboot && System Desgin Patterns && Unit Test
 #### FRONT-END
 - Vue.js
 - javascript(ES6)
