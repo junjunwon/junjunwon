@@ -1,5 +1,5 @@
 ### Junho, Won
-👋   Hi! Welcome to my Github place. I am a Back-End Developer.
+👋   Hi! Welcome to my Github place. I am a Software Engineer.
 
 
 ### 🔭   SKILL && TECK STACK
