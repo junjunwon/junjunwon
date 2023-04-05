@@ -10,8 +10,8 @@
 - Vue.js
 - javascript(ES6)
 #### BACK-END
-- Java (JDK +1.8)
-- SpringBoot 
+- Java
+- SpringBoot / AOP / JPA 
 #### DATABASE
 - POSTGRESQL / MSSQL
 #### VERSION CONTROL
