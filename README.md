@@ -5,13 +5,13 @@
 ### 🔭   SKILL && TECK STACK
 
 #### Current interest 
-- Springboot && System Desgin Patterns && Unit Test
+- DDD && System Design
 #### FRONT-END
 - Vue.js
 - javascript(ES6)
 #### BACK-END
 - Java
-- SpringBoot / AOP / JPA 
+- SpringBoot / JPA 
 #### DATABASE
 - POSTGRESQL / MSSQL
 #### VERSION CONTROL
