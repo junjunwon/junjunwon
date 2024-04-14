@@ -3,9 +3,8 @@
 
 
 ### 🔭   SKILL && TECK STACK
-
 #### Current interest 
-- DDD && System Design
+- Algorithm && System Design
 #### FRONT-END
 - Vue.js
 - javascript(ES6)
@@ -22,7 +21,6 @@
 
 
 ### 📫   How to reach me
-- LinkedIn : https://www.linkedin.com/in/junho-won-10b75117a/
 - email : [wnsgh1993@gmail.com](mailto:wnsgh1993@gmail.com)
 - blog : https://junjunrecord.tistory.com/
 
