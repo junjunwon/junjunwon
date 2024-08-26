@@ -9,13 +9,10 @@
 
 ### 🔭   SKILL && TECK STACK
 #### Current interest 
-- Algorithm && System Design
-#### FRONT-END
-- Vue.js
-- javascript(ES6)
+- System Design
 #### BACK-END
-- Java
-- SpringBoot / JPA 
+- Java 17+
+- SpringBoot 2~3 / JPA 
 #### DATABASE
 - POSTGRESQL / MSSQL
 #### VERSION CONTROL
@@ -23,11 +20,13 @@
 - SVN
 #### WORK MANAGEMENT
 - Confluence / JIRA / WBS
+#### FRONT-END
+- Vue.js
+- javascript(ES6)
 
 
 ### 📫   How to reach me
 - email : [wnsgh1993@gmail.com](mailto:wnsgh1993@gmail.com)
-- blog : https://junjunrecord.tistory.com/
 
 ### 💬  Available languages 
 - Korean (Native)
