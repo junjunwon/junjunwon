@@ -2,8 +2,10 @@
 👋   Hi! Welcome to my Github place. I am a Software Engineer.
 
 ### My Website you can look into
-- https://myinterviewscoach.com/
-- https://junjunwon.github.io/react-newpaper-project/
+- 퍼스널 면접트레이너
+  - https://myinterviewscoach.com/
+- 리액트 기반의 뉴욕타임즈 크롤링 서비스
+  - https://junjunwon.github.io/react-newpaper-project/
 
 ### 🔭   SKILL && TECK STACK
 #### Current interest 
