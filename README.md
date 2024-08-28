@@ -3,10 +3,10 @@
 
 ### My Website you can look into
 - 퍼스널 면접트레이너
-  - https://myinterviewscoach.com/
+  - website : https://myinterviewscoach.com/
   - source code : https://github.com/junjunwon/work-assistant
 - 리액트 기반의 뉴욕타임즈 크롤링 서비스
-  - https://junjunwon.github.io/react-newpaper-project/
+  - website : https://junjunwon.github.io/react-newpaper-project/
   - source code : https://github.com/junjunwon/react-newpaper-project
 
 ### 🔭   SKILL && TECK STACK
