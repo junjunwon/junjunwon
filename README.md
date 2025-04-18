@@ -5,9 +5,9 @@
 - 퍼스널 면접트레이너 (25년 3월 ~ )
   - website : 개발 진행중
   - source code
-    : [as](https://github.com/junjunwon/pca-hijab-front)
-    : https://github.com/junjunwon/pca-hijab-backend
-    : https://github.com/junjunwon/pca-hijab-ai-model-server
+    - 프론트: https://github.com/junjunwon/pca-hijab-front
+    - 백엔드: https://github.com/junjunwon/pca-hijab-backend
+    - 퍼스널컬러 분석: https://github.com/junjunwon/pca-hijab-ai-model-server
 - 퍼스널 면접트레이너
   - website : https://myinterviewscoach.com/ (운영 중단)
   - source code : https://github.com/junjunwon/work-assistant
