@@ -20,16 +20,16 @@
 - System Design
 #### BACK-END
 - Java 17+
-- SpringBoot 2~3 / JPA 
+- SpringBoot 2~3 / JPA / Mybatis
 #### DATABASE
-- POSTGRESQL / MSSQL
+- MySQL / POSTGRESQL / MSSQL 
 #### VERSION CONTROL
 - GIT : Bitbucket (Current) / Gitlab
 - SVN
 #### WORK MANAGEMENT
 - Confluence / JIRA / WBS
 #### FRONT-END
-- Vue.js
+- Vue.js 2,3
 - javascript(ES6)
 
 
