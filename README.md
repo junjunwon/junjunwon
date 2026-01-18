@@ -3,7 +3,7 @@
 
 ### My Website you can look into
 - 퍼스널 면접트레이너 (25년 3월 ~ )
-  - website : 개발 진행중
+  - website : 운영 중단
   - source code
     - 프론트: https://github.com/junjunwon/pca-hijab-front
     - 백엔드: https://github.com/junjunwon/pca-hijab-backend
