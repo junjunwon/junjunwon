@@ -18,11 +18,14 @@
 ### 🔭   SKILL && TECK STACK
 #### Current interest 
 - System Design
-#### BACK-END
+#### SERVER
 - Java 17+
 - SpringBoot 2~3 / JPA / Mybatis
+- RabbitMQ
+- Redis
+- NCP, GCP
 #### DATABASE
-- MySQL / POSTGRESQL / MSSQL 
+- MySQL / POSTGRESQL / MSSQL
 #### VERSION CONTROL
 - GIT : Bitbucket (Current) / Gitlab
 - SVN
