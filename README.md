@@ -15,6 +15,7 @@
   - website : https://junjunwon.github.io/react-newpaper-project/
   - source code : https://github.com/junjunwon/react-newpaper-project
 
+<!--
 ### 🔭   SKILL && TECK STACK
 #### Current interest 
 - System Design
@@ -44,7 +45,6 @@
 - English (Fluent)
 
 
-<!--
 **junjunwon/junjunwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
