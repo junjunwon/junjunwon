@@ -1,7 +1,7 @@
 ### Junho, Won
 👋   Hi! Welcome to my Github place. I am a Software Engineer.
 
-### My Website you can look into
+### Projects
 - 퍼스널 면접트레이너 (25년 3월 ~ )
   - website : 운영 중단
   - source code
